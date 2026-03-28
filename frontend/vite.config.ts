@@ -14,4 +14,5 @@ export default defineConfig({
     host: true, // 开启局域网访问
     port: 8888, // 更改端口为 8888
   },
+
 })
